@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <MainNavbar></MainNavbar>
+      {/* <MainNavbar></MainNavbar> */}
       <Maintenance />
     </>
   );
