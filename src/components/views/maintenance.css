@@ -1,24 +1,3 @@
-/* @font-face {
-  font-family: "Lovelo-Black";
-  src: url("../../assets/font/Lovelo-Black.ttf");
-}
-
-body {
-  background-color: #29077d;
-  background-image: linear-gradient(
-    43deg,
-    #29077d 0%,
-    #512da8 46%,
-    #350d94 100%
-  );
-
-  min-height: 100vh;
-}
-
-.title{
-    font-family: "Lovelo-Black";
-} */
-
 body, #root {
 	background: linear-gradient(-45deg, #ee52dc, #512DA8, #23a6d5, #470cd1);
 	background-size: 400% 400%;
