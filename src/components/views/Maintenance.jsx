@@ -19,12 +19,13 @@ const Maintenance = () => {
     <Container className="d-flex flex-column justify-content-center w-100 h-100">
       <section className="d-flex flex-column justify-content-center align-items-center  text-center">
         <img src={logo} alt="logo MKT digital tuc" className="img-fluid " />
-        <h2 className="fw-bold text-white my-4">Sitio en mantenimiento</h2>
+        <h2 className="fw-bold text-white my-4"><i class="bi bi-exclamation-diamond"></i> Sitio en mantenimiento </h2>
         <p className="lead">
           Disculpa las molestias, estamos realizando labores de mantenimiento en
           nuestra página web para mejorar tu experiencia. Estaremos de vuelta
           pronto.
         </p>
+        <p>Comunícate con nosotros al siguiente número <a href="tel:+543814755410" className="link-light">+54-3814755410</a></p>
         <div className="btn-group my-5">
           <Link
             title="whatsapp"
