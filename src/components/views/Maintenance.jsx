@@ -25,12 +25,12 @@ const Maintenance = () => {
           nuestra página web para mejorar tu experiencia. Estaremos de vuelta
           pronto.
         </p>
-        <p>Comunícate con nosotros al siguiente número <a href="tel:+543814755410" className="link-light">+54-3814755410</a></p>
+        <p>Comunícate con nosotros al siguiente número <a href="tel:+543814754510" className="link-light">+54-3814754510</a></p>
         <div className="btn-group my-5">
           <Link
             title="whatsapp"
             id="whatsapp"
-            href="https://api.whatsapp.com/send?phone=543814755410&text=Hola%20equipo%20de%20MKT!%20queria%20consultarles..."
+            href="https://api.whatsapp.com/send?phone=543814754510&text=Hola%20equipo%20de%20MKT!%20queria%20consultarles..."
           >
             <i className="bi bi-whatsapp fs-4 mx-2"></i>
           </Link>
